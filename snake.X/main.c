@@ -1,7 +1,7 @@
 /*
  * Project Name: Snake Game Project with PIC18F46K22
  * 
- * Authors: Yetkin AKYUZ (contact@yetkinakyuz.com)
+ * Authors: Yetkin AKYUZ (yetkin.akyuz@outlook.com)
  *
  * Created on December 29, 2020, 5:35 PM
  */
