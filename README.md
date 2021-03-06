@@ -1,4 +1,4 @@
-# PIC18F46K22-SnakeGame
+# PIC18 Based Snake Game with 8x8 Dot Matrix
 
 Used PIC18F46K22 MCU and programmed with C language with Microchip's XC8 compiler.
 
